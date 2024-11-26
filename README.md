@@ -24,6 +24,11 @@ We leverage environments from **OpenAI Gym** and **PettingZoo** to experiment wi
 
 ## Some AI Playing in these environments
 
+**cartpole**
+
+![alt vid](https://github.com/KolKemboi/Reinforcement-Learning/blob/40fe55aec4ee142cbc6d16cf083a456359a7a73d/Cartpole-env.mp4)
+
+
 **go**
 
 ![alt vid](https://github.com/KolKemboi/Reinforcement-Learning/blob/05d5f16cc517cb50b2e1c8003c02ca88db8449c1/go-environment.gif)
